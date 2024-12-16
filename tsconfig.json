@@ -1,4 +1,4 @@
 {
   "extends": "astro/tsconfigs/base",
-  "exclude": ["src/pages/posts.astro"]
+  "exclude": ["src/pages/posts.astro", "src/components/posts-loop.astro"]
 }
