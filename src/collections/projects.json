@@ -13,8 +13,33 @@
   },
 
   {
-    "name": "Projet futur",
-    "description": "Projet à venir",
-    "image": "https://telesecretaire-mlg.fr/wp-content/uploads/2023/08/micropraxie.webp"
+    "name": "DHCP, DNS, FTP et SSH",
+    "description": "Configuration d'un environnement réseau virtuel",
+    "image": "/assets/images/projects/dhcp.png",
+    "url": "https://www.linkedin.com/posts/bastien-llorca-ba93302b3_un-tr%C3%A8s-bon-d%C3%A9but-dann%C3%A9e-en-sp%C3%A9cialit%C3%A9-cyber-activity-7294708775754637313-A_jV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtVTbEBHiLhyrkOY9lUFemdYBXjSFRtQsc"
+  },
+  {
+    "name": "Bash",
+    "description": "Apprentissage Bash",
+    "image": "/assets/images/projects/Bash.png",
+    "url": "https://www.linkedin.com/posts/bastien-llorca-ba93302b3_de-bon-r%C3%A9sultat-en-bash-activity-7294708258022297600-drwm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtVTbEBHiLhyrkOY9lUFemdYBXjSFRtQsc"
+  },
+  {
+    "name": "LDAP",
+    "description": "Installation serveur LDAP",
+    "image": "/assets/images/projects/LDAP.png",
+    "url": "https://www.linkedin.com/posts/bastien-llorca-ba93302b3_r%C3%A9sultat-du-projet-ldap-toujours-avec-le-activity-7294709541756145664-85lZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtVTbEBHiLhyrkOY9lUFemdYBXjSFRtQsc"
+  },
+  {
+    "name": "VoIP",
+    "description": "Utilisation VoIP avec Asterisk",
+    "image": "/assets/images/projects/VoIP.png",
+    "url": "https://www.linkedin.com/posts/bastien-llorca-ba93302b3_beaucoup-de-prise-de-t%C3%AAte-pour-comprendre-activity-7302284639480467456-AmjL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtVTbEBHiLhyrkOY9lUFemdYBXjSFRtQsc"
+  },
+  {
+    "name": "WebDav/Nas",
+    "description": "Mise en place VM Debian avec WebDav",
+    "image": "/assets/images/projects/WebDav.png",
+    "url": "https://www.linkedin.com/posts/bastien-llorca-ba93302b3_etienne-verschuere-bastien-llorca-michael-activity-7307718723656720384-kv44?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtVTbEBHiLhyrkOY9lUFemdYBXjSFRtQsc"
   }
 ]
